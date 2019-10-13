@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 
 #Scripting for System Automation COMP9053 Assignment 1 - Task 4
-#Name: Megan Kearney
-#ID: R00
-#Class: 
+#Name: Ryan Monaghan
+#ID: R00115129
 
 bold=$(tput bold) #variable to format text as bold
 normal=$(tput sgr0) #variable to format text as normal
